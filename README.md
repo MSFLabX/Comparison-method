@@ -25,4 +25,4 @@
 
 -A spatial-frequency dual-domain implicit guidance method for hyperspectral and multispectral remote sensing image fusion based on Kolmogorov–Arnold Network  Information Fusion 2025 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003343)] [[Code](https://github.com/chunyuzhu/SFIGNet)]
 
--
+-Spatial Invertible Network With Mamba-Convolution for Hyperspectral Image Fusion JSTSP 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/11122364)] [[Code](https://github.com/chunyuzhu/SFIGNet)]
