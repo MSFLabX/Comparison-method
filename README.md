@@ -15,4 +15,14 @@
 
 -MIMO-SST: Multi-Input Multi-Output Spatial-Spectral Transformer for Hyperspectral and Multispectral Image Fusion TGRS 2024 [[Paper](https://ieeexplore.ieee.org/abstract/document/10419133)] [[Code](https://github.com/Freelancefangjian/MIMO-SST)]
 
+-Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging TIP 2025 [[Paper](https://pubmed.ncbi.nlm.nih.gov/41336172/)] [[Code](https://github.com/1318133/HSC-Sampling)]
 
+-OTIAS: OcTree Implicit Adaptive Sampling for Multispectral and Hyperspectral Image Fusion AAAI 2025 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32275)] [[Code](https://github.com/shangqideng/OTIAS)]
+
+-PSRT: Pyramid Shuffle-and-Reshuffle Transformer for Multispectral and Hyperspectral Image Fusion TGRS 2023 [[Paper](https://ieeexplore.ieee.org/abstract/document/10044141)] [[Code](https://github.com/shangqideng/PSRT)]
+
+-Perceptive spectral transformer unfolding network with multiscale mixed training for arbitrary-scale hyperspectral and multispectral image fusion  2025 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002398)] [[Code](https://github.com/NIM-NMDC/PSTUN)]
+
+-A spatial-frequency dual-domain implicit guidance method for hyperspectral and multispectral remote sensing image fusion based on Kolmogorov–Arnold Network  Information Fusion 2025 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003343)] [[Code](https://github.com/chunyuzhu/SFIGNet)]
+
+-
