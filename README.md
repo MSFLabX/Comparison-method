@@ -1,4 +1,5 @@
 # 高光谱图像融合
 
 ## Paper
--Adaptive Expert Learning for Hyperspectral and Multispectral Image Fusion TGRS 2025 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11202498) [[Code]](https://github.com/Hewq77/AELF)
+-Adaptive Expert Learning for Hyperspectral and Multispectral Image Fusion TGRS 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/11202498)] [[Code](https://github.com/Hewq77/AELF)]
+-Asymptotic Spectral Mapping for Hyperspectral Image Fusion  2025 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10770270) [[Code](https://github.com/1318133/ASMNet)]
