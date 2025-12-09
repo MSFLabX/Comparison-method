@@ -27,4 +27,9 @@
 
 -Spatial Invertible Network With Mamba-Convolution for Hyperspectral Image Fusion JSTSP 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/11122364)] [[Code](https://github.com/MSFLabX/SINet)]
 
--
+-Spatial–spectral unfolding network with mutual guidance for multispectral and hyperspectral image fusion  2024 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324010288)] [[Code](https://github.com/yansql/SMGU-Net)]
+
+-SSR-NET: Spatial–Spectral Reconstruction Network for Hyperspectral and Multispectral Image Fusion TGRS 2020 [[Paper](https://ieeexplore.ieee.org/abstract/document/9186332)] [[Code](https://github.com/hw2hwei/SSRNET)]
+
+
+
